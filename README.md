@@ -41,7 +41,9 @@ python snake.py
 
 ## Screenshot
 
-(Add a screenshot here)
+![Game Screenshot](Screenshots/Screenshot1.png)
+![Game Screenshot](Screenshots/Screenshot2.png)
+![Game Screenshot](Screenshots/Screenshot2.png)
 
 ## Future Improvements
 
